@@ -28,7 +28,7 @@ using var imageHttpClient = new HttpClient();
 
 var processor = new RoverPhotoProcessor(
     new DateParser(),
-    new NasaMarsRoverClient(nasaHttpClient, apiKey),
+    new NasaMarsRoverClient(nasaHttpClient, apiKey, baseUrl),
     new PhotoDownloader(imageHttpClient, photosDirectory));
 
 try

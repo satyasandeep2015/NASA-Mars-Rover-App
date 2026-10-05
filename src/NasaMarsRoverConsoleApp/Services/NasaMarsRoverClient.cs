@@ -7,11 +7,13 @@ public sealed class NasaMarsRoverClient
 {
     private readonly HttpClient _httpClient;
     private readonly string _apiKey;
+    private readonly string _baseUrl;
 
-    public NasaMarsRoverClient(HttpClient httpClient, string apiKey)
+    public NasaMarsRoverClient(HttpClient httpClient, string apiKey, string baseUrl)
     {
         _httpClient = httpClient;
         _apiKey = apiKey;
+        _baseUrl = baseUrl;
     }
 
     public async Task<IReadOnlyList<MarsPhoto>> GetPhotosAsync(
@@ -19,9 +21,7 @@ public sealed class NasaMarsRoverClient
         int take,
         CancellationToken cancellationToken = default)
     {
-        var date = earthDate.ToString("yyyy-MM-dd");
-        var url = $"mars-photos/api/v1/rovers/curiosity/photos?earth_date={date}&api_key={Uri.EscapeDataString(_apiKey)}";
-
+        var url =$"{_baseUrl}/rovers/curiosity/photos" +$"?earth_date={earthDate:yyyy-MM-dd}";
         using var response = await _httpClient.GetAsync(url, cancellationToken);
         response.EnsureSuccessStatusCode();
 
