@@ -18,10 +18,9 @@
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/NasaMarsRoverConsoleApp.AssemblyInfoInputs.cache
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/NasaMarsRoverConsoleApp.AssemblyInfo.cs
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/NasaMarsRoverConsoleApp.csproj.CoreCompileInputs.cache
+/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/NasaMarsRoverConsoleApp.csproj.CopyComplete
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/NasaMarsRoverConsoleApp.dll
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/refint/NasaMarsRoverConsoleApp.dll
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/NasaMarsRoverConsoleApp.pdb
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/NasaMarsRoverConsoleApp.genruntimeconfig.cache
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/ref/NasaMarsRoverConsoleApp.dll
-/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/NasaMarsRoverConsoleApp.sourcelink.json
-/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/src/NasaMarsRoverConsoleApp/obj/Debug/net7.0/NasaMars.EB8C2E26.Up2Date

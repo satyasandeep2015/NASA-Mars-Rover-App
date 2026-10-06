@@ -1,8 +1,3 @@
-/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.csproj.AssemblyReference.cache
-/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
-/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.AssemblyInfoInputs.cache
-/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.AssemblyInfo.cs
-/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.csproj.CoreCompileInputs.cache
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/bin/Debug/net7.0/NasaMarsRoverConsoleApp.deps.json
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/bin/Debug/net7.0/NasaMarsRoverConsoleApp.runtimeconfig.json
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/bin/Debug/net7.0/appsettings.json
@@ -105,10 +100,14 @@
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/bin/Debug/net7.0/NasaMarsRoverConsoleApp.dll
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/bin/Debug/net7.0/NasaMarsRoverConsoleApp.pdb
+/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.csproj.AssemblyReference.cache
+/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.AssemblyInfoInputs.cache
+/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.AssemblyInfo.cs
+/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.csproj.CoreCompileInputs.cache
+/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.csproj.CopyComplete
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.dll
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/refint/NasaMarsRoverConsoleApp.Tests.dll
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.pdb
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.genruntimeconfig.cache
 /Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/ref/NasaMarsRoverConsoleApp.Tests.dll
-/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMarsRoverConsoleApp.Tests.sourcelink.json
-/Users/sandeepkollipara/Documents/Projects/NASA-Mars-Rover-App/tests/NasaMarsRoverConsoleApp.Tests/obj/Debug/net7.0/NasaMars.8504DFB4.Up2Date

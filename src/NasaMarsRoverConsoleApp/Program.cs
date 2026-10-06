@@ -1,22 +1,23 @@
 using NasaMarsRoverConsoleApp.Services;
 using Microsoft.Extensions.Configuration;
 
-const string defaultApiKey = "DEMO_KEY";
-
+//Reads the configuration from the appsettins.json
 var configuration = new ConfigurationBuilder()
     .AddJsonFile(
         Path.Combine(AppContext.BaseDirectory, "appsettings.json"),
         optional: false)
     .Build();
 
-string? apiKey = configuration["NasaApi:ApiKey"];
-string? baseUrl = configuration["NasaApi:BaseUrl"];
+string apiKey = configuration["NasaApi:ApiKey"]?? string.Empty;
+string baseUrl = configuration["NasaApi:BaseUrl"] ?? string.Empty;
 
 
+//Reads input from the dates.txt file
 var inputFile = args.Length > 0
     ? args[0]
     : Path.Combine(AppContext.BaseDirectory, "dates.txt");
 
+//Path to save the photos
 var photosDirectory = Path.Combine(Directory.GetCurrentDirectory(), "photos");
 
 using var nasaHttpClient = new HttpClient
@@ -33,6 +34,7 @@ var processor = new RoverPhotoProcessor(
 
 try
 {
+    //Calls end point and tries to download photos related to all the dates in the input file
     var results = await processor.ProcessFileAsync(inputFile);
 
     Console.WriteLine("NASA Mars Rover Photo Download Summary");
