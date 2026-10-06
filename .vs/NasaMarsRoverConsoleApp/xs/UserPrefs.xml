@@ -1,8 +1,6 @@
-﻿<Properties StartupConfiguration="{A1111111-1111-1111-1111-111111111111}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="{B2222222-2222-2222-2222-222222222222}|Default">
+  <MonoDevelop.Ide.ItemProperties.NasaMarsRoverConsoleApp.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="src/NasaMarsRoverConsoleApp/Program.cs">
     <Files>
       <File FileName="tests/NasaMarsRoverConsoleApp.Tests/DateParserTests.cs" />
@@ -20,7 +18,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.NasaMarsRoverConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NasaMarsRoverConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>
